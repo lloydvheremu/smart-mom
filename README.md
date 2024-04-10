@@ -1,16 +1,10 @@
-# smart_mom
+# Final Year Computer Science Project: Smart Mom
 
-A new Flutter project.
+A simple mobile application designed to provide educational assistance to pregnant women in rural areas of Zimbabwe.
 
-## Getting Started
+## The main features of the mobile application are:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Pregnancy Progress Tracking
+2. Educational Resources
+3. Herbal and Alternative Remedies and Traditional Practices
+4. Symptoms Recogntion and Emergency Response
