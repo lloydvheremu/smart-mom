@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:smart_mom/views/home.dart';
+import 'package:smart_mom/views/login.dart';
 
 void main() {
   runApp(const MyApp());
@@ -16,7 +18,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.orange.shade100),
         useMaterial3: true,
       ),
-      home: const OnBoardingpage(),
+      home: const HomePage(),
     );
   }
 }
